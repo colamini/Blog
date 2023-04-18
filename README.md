@@ -32,8 +32,8 @@
 - [常见数学公式及其表示](./articles/数学基础/常见数学公式及其表示.ipynb)
 - [常见曲线曲面方程及其图像](./articles/数学基础/常见数学公式及其表示.ipynb)
 
-## 工具篇
--[【matplotlib】一起来画个心](./articles/工具篇/【matplotlib】一起来画个心.ipynb)
+### 工具篇
+- [【matplotlib】一起来画个心](./articles/工具篇/【matplotlib】一起来画个心.ipynb)
 
 ### PyTorch入门实践
 
