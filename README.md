@@ -8,7 +8,6 @@
 
 - [机器学习基本介绍](./articles/机器学习/机器学习基本介绍.md)
 - [深度学习基本介绍](./articles/深度学习/深度学习基本介绍.md)
-- [初识AI绘画](./articles/AI绘画/初识AI绘画.md)
 
 ## 核心知识
 ### 机器学习 
@@ -35,7 +34,7 @@
 ### 工具篇
 - [【matplotlib】一起来画个心](./articles/工具篇/【matplotlib】一起来画个心.ipynb)
 
-### PyTorch入门实践
+#### PyTorch入门实践
 
 **1.1 数据处理与加载**
 
