@@ -1,0 +1,6 @@
+permute()
+
+transpose
+
+
+mean
