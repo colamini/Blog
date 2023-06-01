@@ -1,6 +1,0 @@
-permute()
-
-transpose
-
-
-mean
